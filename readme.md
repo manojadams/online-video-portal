@@ -7,4 +7,4 @@ Sample demonstration for running a WebRTC web application where a student and te
 3. Open index_https.js file and edit line 7 and 8 to modify the key and self-signed certificate 
 4. Run node index_https.js
 5. Open https://localhost
-6. In any other system within the same network, open https://<hostname or ip address>
+6. In any other system within the same network, open https://hostname or ip address
